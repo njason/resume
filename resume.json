@@ -44,7 +44,7 @@
             "startDate": "2016-10-26",
             "summary": "Spring is a e-commerce platform that offers over 2,000 brands, millions of SKUs across several marketplaces. I have worked on several backend teams that support the frontend systems. I've also done system architecture design for the various projects I have worked on.",
             "highlights": [
-                "Stood up Spring's eBay catalog and ordering system on a small team of backend engineers on with two months.",
+                "Stood up Spring's eBay catalog and ordering system on a small team of backend engineers within two months.",
                 "Build out and maintain custom solutions for integrating with international e-commerce marketplaces such as NetEase.",
                 "Developed the caching mechanism used for serving product data for Spring's marketplace",
                 "Migrated Spring's marketplace backend from Go to Python",
