@@ -6,7 +6,7 @@
         "email": "me@jasonbiegel.com",
         "phone": "(201) 273-3173",
         "website": "http://jasonbiegel.com",
-        "summary": "I am an innovative and driven software engineer. Although I have plenty of work experience, I am eager to learn for peers. Having dabbled in freelance, I have decided my skills are better suited on a team with other motivated individuals.",
+        "summary": "I am an innovative and driven software engineer who is passionate about practical tech solutions and horticulture. Although I have ten years of experience, I am eager to learn from my peers. Having dabbled in freelance, I have decided my skills are better suited on a team with other motivated individuals.",
         "location": {
             "address": "",
             "postalCode": "",
@@ -42,14 +42,15 @@
             "position": "Software Engineer",
             "website": "https://www.shopspring.com",
             "startDate": "2016-10-26",
-            "summary": "Spring is a e-commerce platform that offers over 2,000 brands, millions of SKUs across several marketplaces. I have worked on several backend teams that support the frontend systems. I've also done system architecture design for the various projects I have worked on.",
+            "summary": "Spring is a e-commerce platform offering over 2,000 brands with millions of SKUs across several marketplaces. I have worked on several backend teams and designed system architecture for the various projects. Spring was recently acquired by ShopRunner.",
             "highlights": [
-                "Stood up Spring's eBay catalog and ordering system on a small team of backend engineers within two months.",
-                "Build out and maintain custom solutions for integrating with international e-commerce marketplaces such as NetEase.",
+                "Designed and implemented Spring's eBay catalog and ordering system on a small team of backend engineers within two months.",
+                "Working on migrating Spring's deployment process to Kubernetes",
+                "Buildout and maintain custom solutions for integrating with international e-commerce marketplaces such as NetEase.",
                 "Developed the caching mechanism used for serving product data for Spring's marketplace",
                 "Migrated Spring's marketplace backend from Go to Python",
                 "Created service for pushing real-time inventory updates to distributed marketplaces",
-                "Enhanced and came up with features for Spring's internal test infrastructure"
+                "Enhanced and designed features for Spring's internal test infrastructure"
             ]
         },
         {
@@ -57,14 +58,14 @@
             "position": "Freelance Full-Stack Web Developer",
             "startDate": "2014-09-01",
             "endDate": "2016-10-01",
-            "summary": "I ran my own company doing full stack web development for clients. Some of my clients included Wolf & Badger, Bomberg, and Combat2College.",
+            "summary": "I provided full stack web development for clients, including Wolf & Badger, Bomberg, and Combat2College.",
             "highlights": [
-                "Develop features and fix bugs on an e-commerce website for a clothing and boutique retailer based in the UK.",
+                "Developed features and fixed bugs on an e-commerce website for a clothing and boutique retailer based in the UK.",
                 "Incorporated a product rating system into the Django Mezzanine admin webapp with ratings imported automatically from Feefo.",
                 "Improved the return process by sending automated emails to vendors when their products are returned.",
-                "Developed a CMS in Django Oscar to control content and products displayed on website.",
-                "Alter website presentation based on user's local time using Python geoip library.",
-                "Two month turnaround for full website implementation using Git and Bitbucket for source control."
+                "Developed a CMS in Django Oscar to control content and products.",
+                "Altered website presentation based on user's local time using Python geoip library.",
+                "Achieved a two month turnaround for full website implementation using Git and Bitbucket for source control."
             ]
         },
         {
@@ -73,10 +74,10 @@
             "website": "http://mediaradar.com",
             "startDate": "2013-01-02",
             "endDate": "2015-01-02",
-            "summary": "I was part of a small team of developers working on customer facing web apps and services. I worked on a large variety of projects from developing new features, to refactoring architecture, to creating large background tasks. Our stack was ASP.NET MVC 3 (Razor) with SQL Server and MongoDB. MediaRadar is data intensive, as a result I wrote an extensive amount of complex large-scale data processing code.",
+            "summary": "I was part of a small team of developers working on customer facing web apps and services. I worked on a broad spectrum of projects from developing new features, to refactoring architecture, to creating large background tasks. Our stack was ASP.NET MVC 3 (Razor) with SQL Server and MongoDB. MediaRadar is data intensive, as a result I wrote an extensive amount of complex large-scale data processing code.",
             "highlights": [
                 "Developed email templating functionality into an internal web app to send emails to new customers.",
-                "Re-factored the homepage and a report feature on customer facing site. Reducing load time drastically.",
+                "Re-factored the homepage and a report feature on customer facing site which reduced load-time drastically.",
                 "Developed a system for testing and sending customer email alerts.",
                 "Worked on projects utilizing mongoDB to store alert email messages.",
                 "Re-implemented front-end styling in LESS."
@@ -88,7 +89,7 @@
             "website": "http://www.imageaccesscorp.com",
             "startDate": "2010-06-01",
             "endDate": "2012-12-30",
-            "summary": "Developed and maintained workflow systems for enterprise businesses utilizing scanners for converting paper documents to digital. Wrote software using a large variety of technologies to store digital documents including .NET, web services, and ODBC.",
+            "summary": "I developed and maintained workflow systems for enterprise businesses utilizing scanners digitizing paper documents. Wrote software using technologies such as .NET, web services, and ODBC to store digital documents.",
             "highlights": [
                 "Developed and supported an invoice approval web application for a Fortune 500 company with 10K users.",
                 "Wrote custom Kofax scanner application for stamping ID code on scanned documents for a large-scale operation.",
@@ -123,14 +124,25 @@
     ],
     "volunteer": [
         {
+            "organization": "Assocation for Vertical Farming",
+            "position": "Member",
+            "website": "https://vertical-farming.net",
+            "startDate": "2016-07-01",
+            "summary": "Developing a standardized grow recipe data format for controlled environment farming.",
+            "highlights": [
+                "Give presentations on concepts for standardizing grow recipes",
+                "Work with an international team of steak-holders on to gather requirements"
+            ]
+        },
+        {
             "organization": "MakerBar",
             "position": "Board Member",
             "website": "http://makerbar.com",
             "startDate": "2014-02-01",
-            "summary": "Active member of a non-profit hackerspace in Hoboken, NJ.  We have a wood shop, CNC router, 3D printer which I utilize for various projects.",
+            "summary": "Active member of a non-profit hackerspace in Hoboken, NJ. We have a wood shop, CNC router, and 3D printer which I utilize for my projects.",
             "highlights": [
                 "Taught several classes on the basics of front-end web development (HTML, JS, CSS.)",
-                "Created a solar powered phone charger and installed in local community garden.",
+                "Created a solar powered phone charger and installed it in my local community garden.",
                 "Host and participate in meetups at the space."
             ]
         },
@@ -156,6 +168,24 @@
             "endDate": "2010-05-20",
             "gpa": "",
             "courses": []
+        },
+        {
+            "institution": "New York Botanical Garden",
+            "area": "Plant Sciences",
+            "studyType": "Adult Education",
+            "startDate": "2018-07-01",
+            "endDate": "2018-08-20",
+            "gpa": "",
+            "courses": []
+        },
+        {
+            "institution": "University of New South Wales",
+            "area": "Australian Wildlife and Conservation",
+            "studyType": "Study Abroad",
+            "startDate": "2009-06-01",
+            "endDate": "2009-08-01",
+            "gpa": "",
+            "courses": []
         }
     ],
     "skills": [
@@ -178,7 +208,10 @@
                 "Go",
                 "Python",
                 "Django",
+                "Flask",
                 "Postgres",
+                "Memcached",
+                "supervisord",
                 "ASP.NET",
                 "SQL Server"
             ]
@@ -190,7 +223,8 @@
                 "Linux",
                 "Windows 7",
                 "OS X",
-                "AWS EC2"
+                "AWS EC2",
+                "Docker"
             ]
         }
     ],
