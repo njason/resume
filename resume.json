@@ -6,7 +6,7 @@
         "email": "me@jasonbiegel.com",
         "phone": "(201) 273-3173",
         "website": "http://jasonbiegel.com",
-        "summary": "I am an innovative and driven software engineer who is passionate about practical tech solutions and horticulture. Although I have ten years of experience, I am eager to learn from my peers. Having dabbled in freelance, I have decided my skills are better suited on a team with other motivated individuals.",
+        "summary": "I am a detail oriented professional with a deep understanding of many technical subjects. I am an avid open source developer. I love to be creative and inventive. I have over 10 years of experience in the field",
         "location": {
             "address": "",
             "postalCode": "",
@@ -20,19 +20,9 @@
                 "url": "https://linkedin.com/in/jasonbiegel"
             },
             {
-                "network": "StackOverflow",
-                "username": "bovus",
-                "url": "https://stackoverflow.com/users/1981635/bovus"
-            },
-            {
                 "network": "GitHub",
                 "username": "njason",
                 "url": "https://github.com/njason"
-            },
-            {
-                "network": "Bitbucket",
-                "username": "bovus",
-                "url": "https://bitbucket.org/bovus"
             }
         ]
     },
@@ -42,7 +32,7 @@
             "position": "Software Engineer",
             "website": "https://www.shopspring.com",
             "startDate": "2016-10-26",
-            "summary": "Spring is a e-commerce platform offering over 2,000 brands with millions of SKUs across several marketplaces. I have worked on several backend teams and designed system architecture for the various projects. Spring was recently acquired by ShopRunner.",
+            "summary": "Spring was an e-commerce platform offering over 2,000 brands with millions of SKUs across several marketplaces. I have worked on several backend teams and designed system architecture for the various projects. Spring was recently acquired by ShopRunner.",
             "highlights": [
                 "Designed and implemented Spring's eBay catalog and ordering system on a small team of backend engineers within two months.",
                 "Working on migrating Spring's deployment process to Kubernetes",

@@ -1,0 +1,23 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njason/resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njason/resume/issues"
+  },
+  "homepage": "https://github.com/njason/resume#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2",
+    "resume-cli": "^1.2.7"
+  }
+}
