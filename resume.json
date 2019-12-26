@@ -36,6 +36,7 @@
             "summary": "Backend/Devops focused developer for ShopRunner's e-commerce marketplace. I work on a small agile team which creates exciting and innovative products.",
             "highlights": [
                 "Design and implemented ordering system",
+                "Converted legacy Node app to TypeScript",
                 "Added testing to backend Python system resulting in much faster bug fixes",
                 "Migrated high-traffic legacy Python emailing system to Kotlin",
                 "Dockerized and migrated core Spring, Inc. apps to ShopRunner's AWS account without production downtime",
