@@ -32,7 +32,6 @@
             "position": "Software Engineer (Remote)",
             "website": "https://www.shoprunner.com",
             "startDate": "2018-10-23",
-            "endDate": "Present",
             "summary": "Backend/Devops focused developer for ShopRunner's e-commerce marketplace. I work on a small agile team which creates exciting and innovative products.",
             "highlights": [
                 "Design and implemented ordering system",
@@ -134,7 +133,6 @@
             "position": "Maintainer",
             "website": "https://github.com/shopspring/decimal",
             "startDate": "2017-02-07",
-            "endDate": "Present",
             "summary": "One of two maintainers for golang's most popular decimal library",
             "highlights": []
         },
@@ -191,7 +189,6 @@
             "area": "Horticulture",
             "studyType": "Adult Education Certificate Program",
             "startDate": "2018-07-01",
-            "endDate": "Present",
             "gpa": "",
             "courses": []
         },

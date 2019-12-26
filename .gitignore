@@ -109,3 +109,6 @@ dist
 # intelliJ
 *.iml
 *.idea
+
+# project
+resume.html

@@ -4,6 +4,12 @@ Written in [JSON Resume](https://jsonresume.org/) format
 
 ## Setup
 
-`npm install`
+    npm install
 
-## 
+## Build
+
+    ./build.sh
+
+## Watch
+
+    ./watch.sh
