@@ -28,19 +28,34 @@
     },
     "work": [
         {
+            "company": "ShopRunner",
+            "position": "Software Engineer (Remote)",
+            "website": "https://www.shoprunner.com",
+            "startDate": "2018-10-23",
+            "endDate": "Present",
+            "summary": "Backend/Devops focused developer for ShopRunner's e-commerce marketplace. I work on a small agile team which creates exciting and innovative products.",
+            "highlights": [
+                "Design and implemented ordering system",
+                "Added testing to backend Python system resulting in much faster bug fixes",
+                "Migrated high-traffic legacy Python emailing system to Kotlin",
+                "Dockerized and migrated core Spring, Inc. apps to ShopRunner's AWS account without production downtime",
+                "Handpicked from Spring, Inc. acquisition, primary on-call resource for all apps"
+            ]
+        },
+        {
             "company": "Spring Inc.",
             "position": "Software Engineer",
             "website": "https://www.shopspring.com",
             "startDate": "2016-10-26",
-            "summary": "Spring was an e-commerce platform offering over 2,000 brands with millions of SKUs across several marketplaces. I have worked on several backend teams and designed system architecture for the various projects. Spring was recently acquired by ShopRunner.",
+            "endDate": "2018-10-23",
+            "summary": "Spring was an acquired e-commerce platform offering over 2,000 brands with millions of SKUs across several marketplaces. I worked on several backend teams and designed system architecture for various projects.",
             "highlights": [
+                "Developed the caching system used for customer apps",
                 "Designed and implemented Spring's eBay catalog and ordering system on a small team of backend engineers within two months.",
-                "Working on migrating Spring's deployment process to Kubernetes",
-                "Buildout and maintain custom solutions for integrating with international e-commerce marketplaces such as NetEase.",
-                "Developed the caching mechanism used for serving product data for Spring's marketplace",
-                "Migrated Spring's marketplace backend from Go to Python",
+                "Built and maintained custom solutions for integrating with international e-commerce marketplaces such as NetEase.",
+                "Migrated backend functionality from Go to Python",
                 "Created service for pushing real-time inventory updates to distributed marketplaces",
-                "Enhanced and designed features for Spring's internal test infrastructure"
+                "Enhanced and designed features for internal test infrastructure"
             ]
         },
         {
@@ -101,7 +116,7 @@
         },
         {
             "company": "Application Security, Inc.",
-            "position": "Software Engineering Co-op",
+            "position": "Software Engineering Intern",
             "website": "http://www.appsecinc.com",
             "startDate": "2008-01-05",
             "endDate": "2008-12-20",
@@ -114,21 +129,32 @@
     ],
     "volunteer": [
         {
-            "organization": "Assocation for Vertical Farming",
+            "organization": "shopspring/decimal",
+            "position": "Maintainer",
+            "website": "https://github.com/shopspring/decimal",
+            "startDate": "2017-02-07",
+            "endDate": "Present",
+            "summary": "One of two maintainers for golang's most popular decimal library",
+            "highlights": []
+        },
+        {
+            "organization": "Association for Vertical Farming",
             "position": "Member",
             "website": "https://vertical-farming.net",
             "startDate": "2016-07-01",
-            "summary": "Developing a standardized grow recipe data format for controlled environment farming.",
+            "endDate": "2018-12-31",
+            "summary": "Developed a standardized grow recipe data format for controlled environment agriculture.",
             "highlights": [
-                "Give presentations on concepts for standardizing grow recipes",
-                "Work with an international team of steak-holders on to gather requirements"
+                "Gave presentations on concepts for standardizing grow recipes",
+                "Work with an international team of stake-holders to gather requirements"
             ]
         },
         {
             "organization": "MakerBar",
             "position": "Board Member",
             "website": "http://makerbar.com",
-            "startDate": "2014-02-01",
+            "startDate": "2014-04-14",
+            "endDate": "2019-01-15",
             "summary": "Active member of a non-profit hackerspace in Hoboken, NJ. We have a wood shop, CNC router, and 3D printer which I utilize for my projects.",
             "highlights": [
                 "Taught several classes on the basics of front-end web development (HTML, JS, CSS.)",
@@ -161,10 +187,10 @@
         },
         {
             "institution": "New York Botanical Garden",
-            "area": "Plant Sciences",
-            "studyType": "Adult Education",
+            "area": "Horticulture",
+            "studyType": "Adult Education Certificate Program",
             "startDate": "2018-07-01",
-            "endDate": "2018-08-20",
+            "endDate": "Present",
             "gpa": "",
             "courses": []
         },
