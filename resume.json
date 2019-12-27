@@ -6,7 +6,7 @@
         "email": "me@jasonbiegel.com",
         "phone": "(201) 273-3173",
         "website": "http://jasonbiegel.com",
-        "summary": "I am a detail oriented professional with a deep understanding of many technical subjects. I am an avid open source developer. I love to be creative and inventive. I have over 10 years of experience in the field",
+        "summary": "I am a detail oriented professional with a deep understanding of many technical subjects. I am an avid open source developer. I love to be creative and inventive. I have over 10 years of experience in the field.",
         "location": {
             "address": "",
             "postalCode": "",
@@ -129,11 +129,11 @@
     ],
     "volunteer": [
         {
-            "organization": "shopspring/decimal",
+            "organization": "GitHub",
             "position": "Maintainer",
             "website": "https://github.com/shopspring/decimal",
             "startDate": "2017-02-07",
-            "summary": "One of two maintainers for golang's most popular decimal library",
+            "summary": "One of two maintainers for Go's most popular decimal library, shopspring/decimal",
             "highlights": []
         },
         {
