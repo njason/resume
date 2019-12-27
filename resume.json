@@ -204,41 +204,40 @@
     ],
     "skills": [
         {
+            "name": "Back-end",
+            "level": "Master",
+            "keywords": [
+                "Node",
+                "Go",
+                "Python",
+                "Kotlin",
+                "Postgres",
+                "Memcached",
+                "supervisord"
+            ]
+        },
+        {
+            "name": "OS/Cloud Solutions",
+            "level": "Experienced",
+            "keywords": [
+                "Kubernetes",
+                "AWS",
+                "Docker",
+                "macOS",
+                "Linux",
+                "Windows"
+            ]
+        },
+        {
             "name": "Front-end",
-            "level": "Experiences",
+            "level": "Experienced",
             "keywords": [
                 "Bootstrap",
                 "NPM",
                 "Backbone",
                 "jQuery",
                 "HTML5",
-                "LESS"
-            ]
-        },
-        {
-            "name": "Back-end",
-            "level": "Master",
-            "keywords": [
-                "Go",
-                "Python",
-                "Django",
-                "Flask",
-                "Postgres",
-                "Memcached",
-                "supervisord",
-                "ASP.NET",
-                "SQL Server"
-            ]
-        },
-        {
-            "name": "Operating Systems",
-            "level": "Experienced",
-            "keywords": [
-                "Linux",
-                "Windows 7",
-                "OS X",
-                "AWS EC2",
-                "Docker"
+                "SASS"
             ]
         }
     ],
@@ -261,7 +260,6 @@
             "name": "Cars",
             "keywords": [
                 "Bio-diesel",
-                "Volkswagen"
             ]
         },
         {
