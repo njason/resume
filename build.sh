@@ -1,2 +1,2 @@
-#npx resume-cli export resume.html --theme modern --format .html
-./node_modules/resume-cli/index.js export resume.html --theme modern --format .html
+#npx resume-cli export ...
+./node_modules/resume-cli/index.js export index.html --theme classy --format .html
