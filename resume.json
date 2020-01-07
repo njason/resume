@@ -211,9 +211,9 @@
                 "Go",
                 "Python",
                 "Kotlin",
+                ".NET",
                 "Postgres",
-                "Memcached",
-                "supervisord"
+                "Memcached"
             ]
         },
         {
