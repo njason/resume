@@ -18,6 +18,7 @@
   "homepage": "https://github.com/njason/resume#readme",
   "devDependencies": {
     "jsonresume-theme-classy": "^1.0.9",
+    "jsonresume-theme-short": "^0.1.7",
     "nodemon": "^2.0.2",
     "resume-cli": "^1.2.7"
   }
