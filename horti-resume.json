@@ -1,0 +1,148 @@
+{
+    "basics": {
+        "name": "Jason Biegel",
+        "label": "Urban Farmer",
+        "picture": "https://secure.gravatar.com/avatar/d24170b4cfdc6164e5d566ee4304fb52",
+        "email": "me@jasonbiegel.com",
+        "phone": "(201) 273-3173",
+        "website": "http://jasonbiegel.com",
+        "summary": "I am a detail oriented professional with a deep understanding of many technical subjects. I am currently transitioning careers from software engineering to horticulture. I have a passion for CEA which I have practiced both personally and professionally",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "",
+            "countryCode": "",
+            "region": "New York City"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "url": "https://linkedin.com/in/jasonbiegel"
+            },
+            {
+                "network": "GitHub",
+                "username": "njason",
+                "url": "https://github.com/njason"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Garden City Grown",
+            "position": "Founder",
+            "website": "https://www.gardencitygrown.com",
+            "startDate": "2017-09-01",
+            "summary": "Garden City Grown is a hydroponic indoor farm supplying rare and unique herbs to cocktail bars in the NYC metro area all year round. These herbs can be used to mix and garnish artisanal cocktails. Because we service only in our local area, we are able to vastly reduce the food miles needed to deliver the herbs to customers. Faster delivery means fresher product. Fresher herbs will contribute to the flavor and aesthetic of our customer’s cocktails.",
+            "highlights": [
+                "Designed and operated vertical hydropnic grow systems for herbs",
+                "Incubated business at the AgTech-X co-working lab (now Agritecture)",
+                "Vastly reduced time for cleaning operations by identifying bottlenecks and streamlining them",
+                "Automated data collection from sensors in grow areas, created methods of iterative grow reviews to improve crop health",
+                "Practiced food safety standards FSMA and GAP",
+                "Featured in the Innovation Station at Liberty Science Center After Dark events",
+                "Herbs and tinctures used for signature cocktails at Sustainable JC events"
+            ]
+        },
+        {
+            "company": "ShopRunner and others",
+            "position": "Software Engineer",
+            "website": "https://www.shoprunner.com",
+            "startDate": "2008-01-05",
+            "summary": "I have been working as a full-time software engineer at companies of many sizes. I develop new applications and functionality that drive business-critical operaitons. I also support existing applications in production use.",
+            "highlights": [
+                "Designed and implemented inventory management and ordering systems for eCommerce platforms",
+                "Handpicked as primary technical resource for company acquisition",
+                "Implented features for high traffic web applications",
+                "Work with customer service deptartment to understand user issues and fix them",
+                "Ran my own business doing freelance web development for multiple clients concurrently"
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Urbana Greens",
+            "position": "Volunteer",
+            "website": "https://www.urbanagreens.com/",
+            "startDate": "2016-04-01",
+            "endDate": "2016-09-01",
+            "summary": "Provided technical analysis of air conditions inside in Essex County Branch Brook Park",
+            "highlights": [
+                "Designed and installed aspirated boxes to house air sensors installed in a production greenhouse",
+                "Generated and sent email reports on air temperature and relative humitidy conditions",
+                "Colaborated on ideas for cooling greenhouses"
+            ]
+        },
+        {
+            "organization": "Riverview Community Garden",
+            "position": "Member",
+            "website": "https://www.riverviewcommunitygarden.org/",
+            "startDate": "2013-04-01",
+            "summary": "Grow crops for people in my community.",
+            "highlights": [
+                "Identify and remove pests and diseases in crops",
+                "Designed off-grid solar power electrical system",
+                "Setup small greenhouse for seed germination",
+                "Teach composting to people in the community"
+            ]
+        },
+        {
+            "organization": "Association for Vertical Farming",
+            "position": "Member",
+            "website": "https://vertical-farming.net",
+            "startDate": "2016-07-01",
+            "endDate": "2018-12-31",
+            "summary": "Developed a standardized grow recipe data format for controlled environment agriculture.",
+            "highlights": [
+                "Gave presentations on concepts for standardizing grow recipes",
+                "Work with an international team of stake-holders to gather requirements"
+            ]
+        },
+        {
+            "organization": "MakerBar",
+            "position": "Board Member",
+            "website": "http://makerbar.com",
+            "startDate": "2014-04-14",
+            "endDate": "2019-01-15",
+            "summary": "Held positions as president and treasurer of a non-profit makerspace in Hoboken, NJ. We had a wood shop, CNC router, 3D printer which I utilize for various projects.",
+            "highlights": [
+                "Taught several classes on the basics of front-end web development (HTML, JS, CSS.)",
+                "Created a solar powered phone charger and installed it in my local community garden.",
+                "Host and participate in meetups at the space."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "New York Botanical Garden",
+            "area": "Horticulture",
+            "studyType": "Adult Education Certificate Program",
+            "startDate": "2018-07-01",
+            "gpa": "",
+            "courses": []
+        },
+        {
+            "institution": "Rutgers",
+            "area": "Greenhouse Production",
+            "studyType": "Short Course",
+            "startDate": "2015-03-02",
+            "endDate": "2015-03-03",
+            "gpa": "",
+            "courses": []
+        },
+        {
+            "institution": "Stevens Institute of Technology",
+            "area": "Computer Science",
+            "studyType": "Bachelor of Science",
+            "startDate": "2006-08-01",
+            "endDate": "2010-05-20",
+            "gpa": "",
+            "courses": []
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ]
+}
