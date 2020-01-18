@@ -60,14 +60,14 @@
     ],
     "volunteer": [
         {
-            "organization": "Urbana Greens",
+            "organization": "Essex County Branch Brook Park",
             "position": "Volunteer",
-            "website": "https://www.urbanagreens.com/",
+            "website": "",
             "startDate": "2016-04-01",
             "endDate": "2016-09-01",
-            "summary": "Provided technical analysis of air conditions inside in Essex County Branch Brook Park",
+            "summary": "Provided technical analysis of air conditions inside park greenhouses",
             "highlights": [
-                "Designed and installed aspirated boxes to house air sensors installed in a production greenhouse",
+                "Designed and installed aspirated boxes to house air sensors installed in production greenhouses",
                 "Generated and sent email reports on air temperature and relative humidity conditions",
                 "Collaborated on ideas for cooling greenhouses"
             ]
