@@ -28,6 +28,23 @@
     },
     "work": [
         {
+          "company": "Profeta Farms",
+          "position": "Farmer",
+          "website": "https://profetafarms.com",
+          "startDate": "2020-02-08",
+          "summary": "Organic vegetable farming on 60 acres of vegetable blocks",
+          "highlights": [
+            "Lead food safety efforts for GAP certification.",
+            "Lead food safety efforts for GAP certification. Record keeping and making SOPs",
+            "Field, Greenhouse and Hydroponics",
+            "Operating skid-steer loader",
+            "Seeding and transplanting",
+            "Weeding",
+            "Harvesting",
+            "Wash and pack"
+          ]
+        },
+        {
             "company": "Garden City Grown",
             "position": "Founder",
             "website": "https://www.gardencitygrown.com",
@@ -44,9 +61,9 @@
             ]
         },
         {
-            "company": "ShopRunner and others",
+            "company": "ISeeChange and others",
             "position": "Software Engineer",
-            "website": "https://www.shoprunner.com",
+            "website": "https://www.iseechange.org",
             "startDate": "2008-01-05",
             "summary": "I have been working as a full-time software engineer at companies of many sizes. I develop new applications and functionality that drive business-critical operations. I also support existing applications in production use.",
             "highlights": [
@@ -74,7 +91,7 @@
         },
         {
             "organization": "Riverview Community Garden",
-            "position": "Member",
+            "position": "Board Member",
             "website": "https://www.riverviewcommunitygarden.org/",
             "startDate": "2013-04-01",
             "summary": "Grow crops for people in my community.",

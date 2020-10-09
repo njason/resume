@@ -1,287 +1,327 @@
 {
-    "basics": {
-        "name": "Jason Biegel",
-        "label": "Software Engineer",
-        "picture": "https://secure.gravatar.com/avatar/d24170b4cfdc6164e5d566ee4304fb52",
-        "email": "me@jasonbiegel.com",
-        "phone": "(201) 273-3173",
-        "website": "http://jasonbiegel.com",
-        "summary": "I am a detail oriented professional with a deep understanding of many technical subjects. I am an avid open source developer. I love to be creative and inventive. I have over 10 years of experience in the field.",
-        "location": {
-            "address": "",
-            "postalCode": "",
-            "city": "",
-            "countryCode": "",
-            "region": "New York City"
-        },
-        "profiles": [
-            {
-                "network": "LinkedIn",
-                "url": "https://linkedin.com/in/jasonbiegel"
-            },
-            {
-                "network": "GitHub",
-                "username": "njason",
-                "url": "https://github.com/njason"
-            }
-        ]
+  "basics": {
+    "name": "Jason Biegel",
+    "label": "Software Engineer",
+    "picture": "https://secure.gravatar.com/avatar/d24170b4cfdc6164e5d566ee4304fb52",
+    "email": "me@jasonbiegel.com",
+    "phone": "(201) 273-3173",
+    "website": "http://jasonbiegel.com",
+    "summary": "I am a detail-oriented professional with a deep understanding of many technical subjects. I am an avid open-source developer. I love to be creative and inventive. I have over 10 years of experience in software engineering. I also have professional experience in farming and citizen science.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": "New York City"
     },
-    "work": [
-        {
-            "company": "ShopRunner",
-            "position": "Software Engineer (Remote)",
-            "website": "https://www.shoprunner.com",
-            "startDate": "2018-10-23",
-            "summary": "Backend/Devops focused developer for ShopRunner's e-commerce marketplace. I work on a small agile team which creates exciting and innovative products.",
-            "highlights": [
-                "Design and implemented ordering system",
-                "Converted legacy Node app to TypeScript",
-                "Added testing to backend Python system resulting in much faster bug fixes",
-                "Migrated high-traffic legacy Python emailing system to Kotlin",
-                "Dockerized and migrated core Spring, Inc. apps to ShopRunner's AWS account without production downtime",
-                "Handpicked from Spring, Inc. acquisition, primary on-call resource for all apps"
-            ]
-        },
-        {
-            "company": "Spring Inc.",
-            "position": "Software Engineer",
-            "website": "https://www.shopspring.com",
-            "startDate": "2016-10-26",
-            "endDate": "2018-10-23",
-            "summary": "Spring was an acquired e-commerce platform offering over 2,000 brands with millions of SKUs across several marketplaces. I worked on several backend teams and designed system architecture for various projects.",
-            "highlights": [
-                "Developed the caching system used for customer apps",
-                "Designed and implemented Spring's eBay catalog and ordering system on a small team of backend engineers within two months.",
-                "Built and maintained custom solutions for integrating with international e-commerce marketplaces such as NetEase.",
-                "Migrated backend functionality from Go to Python",
-                "Created service for pushing real-time inventory updates to distributed marketplaces",
-                "Enhanced and designed features for internal test infrastructure"
-            ]
-        },
-        {
-            "company": "Self-Employed",
-            "position": "Freelance Full-Stack Web Developer",
-            "startDate": "2014-09-01",
-            "endDate": "2016-10-01",
-            "summary": "I provided full stack web development for clients, including Wolf & Badger, Bomberg, and Combat2College.",
-            "highlights": [
-                "Developed features and fixed bugs on an e-commerce website for a clothing and boutique retailer based in the UK.",
-                "Incorporated a product rating system into the Django Mezzanine admin webapp with ratings imported automatically from Feefo.",
-                "Improved the return process by sending automated emails to vendors when their products are returned.",
-                "Developed a CMS in Django Oscar to control content and products.",
-                "Altered website presentation based on user's local time using Python geoip library.",
-                "Achieved a two month turnaround for full website implementation using Git and Bitbucket for source control."
-            ]
-        },
-        {
-            "company": "MediaRadar, Inc.",
-            "position": "Application Developer",
-            "website": "http://mediaradar.com",
-            "startDate": "2013-01-02",
-            "endDate": "2015-01-02",
-            "summary": "I was part of a small team of developers working on customer facing web apps and services. I worked on a broad spectrum of projects from developing new features, to refactoring architecture, to creating large background tasks. Our stack was ASP.NET MVC 3 (Razor) with SQL Server and MongoDB. MediaRadar is data intensive, as a result I wrote an extensive amount of complex large-scale data processing code.",
-            "highlights": [
-                "Developed email templating functionality into an internal web app to send emails to new customers.",
-                "Re-factored the homepage and a report feature on customer facing site which reduced load-time drastically.",
-                "Developed a system for testing and sending customer email alerts.",
-                "Worked on projects utilizing mongoDB to store alert email messages.",
-                "Re-implemented front-end styling in LESS."
-            ]
-        },
-        {
-            "company": "Image Access Corp.",
-            "position": "Software Engineer",
-            "website": "http://www.imageaccesscorp.com",
-            "startDate": "2010-06-01",
-            "endDate": "2012-12-30",
-            "summary": "I developed and maintained workflow systems for enterprise businesses utilizing scanners digitizing paper documents. Wrote software using technologies such as .NET, web services, and ODBC to store digital documents.",
-            "highlights": [
-                "Developed and supported an invoice approval web application for a Fortune 500 company with 10K users.",
-                "Wrote custom Kofax scanner application for stamping ID code on scanned documents for a large-scale operation.",
-                "Supported 50+ customers remotely and on-site for testing, upgrades, and troubleshooting.",
-                "Autonomously migrated millions of documents from EMC ApplicationXtender to IBM Content Manager."
-            ]
-        },
-        {
-            "company": "Abbott Point of Care",
-            "position": "Software Engineering Intern",
-            "website": "http://www.abbottpointofcare.com",
-            "startDate": "2010-01-05",
-            "endDate": "2010-05-05",
-            "summary": "Designed and developed a .NET application for medical devices with touch screen capabilities on a team of software engineers using WPF technologies.",
-            "highlights": [
-                "Created a Windows service for logging system events into a SQL Server database.",
-                "Designed and developed an operations log for medical devices."
-            ]
-        },
-        {
-            "company": "Application Security, Inc.",
-            "position": "Software Engineering Intern",
-            "website": "http://www.appsecinc.com",
-            "startDate": "2008-01-05",
-            "endDate": "2008-12-20",
-            "summary": "Developed features and made bug fixes for .NET applications with 1000+ customers.",
-            "highlights": [
-                "Started, designed, and implemented an open source testing framework (RemoteInstall) for testing installers on virtual machines over a network.",
-                "Worked on an open source project (dotNetInstaller), a setup bootstrapper used for installing and upgrading company products on customer machines."
-            ]
-        }
-    ],
-    "volunteer": [
-        {
-            "organization": "GitHub",
-            "position": "Maintainer",
-            "website": "https://github.com/shopspring/decimal",
-            "startDate": "2017-02-07",
-            "summary": "One of two maintainers for Go's most popular decimal library, shopspring/decimal",
-            "highlights": []
-        },
-        {
-            "organization": "Association for Vertical Farming",
-            "position": "Member",
-            "website": "https://vertical-farming.net",
-            "startDate": "2016-07-01",
-            "endDate": "2018-12-31",
-            "summary": "Developed a standardized grow recipe data format for controlled environment agriculture.",
-            "highlights": [
-                "Gave presentations on concepts for standardizing grow recipes",
-                "Work with an international team of stake-holders to gather requirements"
-            ]
-        },
-        {
-            "organization": "MakerBar",
-            "position": "Board Member",
-            "website": "http://makerbar.com",
-            "startDate": "2014-04-14",
-            "endDate": "2019-01-15",
-            "summary": "Held positions as president and treasurer of a non-profit makerspace in Hoboken, NJ. We had a wood shop, CNC router, 3D printer which I utilize for various projects.",
-            "highlights": [
-                "Taught several classes on the basics of front-end web development (HTML, JS, CSS.)",
-                "Created a solar powered phone charger and installed it in my local community garden.",
-                "Host and participate in meetups at the space."
-            ]
-        },
-        {
-            "organization": "Prime Skate Shop",
-            "position": "Web Developer",
-            "website": "http://www.primeskateshop.com",
-            "startDate": "2010-01-01",
-            "endDate": "2011-08-01",
-            "summary": "Developed a PHP based eCommerce website linked to a PayPal merchant account selling skateboarding products.",
-            "highlights": [
-                "Wrote scripts to automatically update inventory daily from distributor database.",
-                "Linked company Blogspot RSS feed to automatically show new blogs on website front page."
-            ]
-        }
-    ],
-    "education": [
-        {
-            "institution": "Stevens Institute of Technology",
-            "area": "Computer Science",
-            "studyType": "Bachelor of Science",
-            "startDate": "2006-08-01",
-            "endDate": "2010-05-20",
-            "gpa": "",
-            "courses": []
-        },
-        {
-            "institution": "New York Botanical Garden",
-            "area": "Horticulture",
-            "studyType": "Adult Education Certificate Program",
-            "startDate": "2018-07-01",
-            "gpa": "",
-            "courses": []
-        },
-        {
-            "institution": "University of New South Wales",
-            "area": "Australian Wildlife and Conservation",
-            "studyType": "Study Abroad",
-            "startDate": "2009-06-01",
-            "endDate": "2009-08-01",
-            "gpa": "",
-            "courses": []
-        }
-    ],
-    "skills": [
-        {
-            "name": "Back-end",
-            "level": "Master",
-            "keywords": [
-                "Node",
-                "Go",
-                "Python",
-                "Kotlin",
-                ".NET",
-                "Postgres",
-                "Memcached"
-            ]
-        },
-        {
-            "name": "OS/Cloud Solutions",
-            "level": "Experienced",
-            "keywords": [
-                "Kubernetes",
-                "AWS",
-                "Docker",
-                "macOS",
-                "Linux",
-                "Windows"
-            ]
-        },
-        {
-            "name": "Front-end",
-            "level": "Experienced",
-            "keywords": [
-                "Bootstrap",
-                "NPM",
-                "Backbone",
-                "jQuery",
-                "HTML5",
-                "SASS"
-            ]
-        }
-    ],
-    "languages": [
-        {
-            "language": "English",
-            "fluency": "Native speaker"
-        }
-    ],
-    "interests": [
-        {
-            "name": "Gardening",
-            "keywords": [
-                "Hydroponics",
-                "Vertical Gardening",
-                "Community Garden"
-            ]
-        },
-        {
-            "name": "Cars",
-            "keywords": [
-                "Bio-diesel"
-            ]
-        },
-        {
-            "name": "Pub Games",
-            "keywords": [
-                "Darts",
-                "Billiards"
-            ]
-        }
-    ],
-    "references": [
-        {
-            "name": "Mike Levine",
-            "reference": "Jason brought skill and passion to the MediaRadar development team. When we first brought Jason on he was put in a role that provided support to our 20 person development team. Within the first few months he outgrew that role and became a go to for other developers on best practices and technical knowledge of some of the newer tools available. Jason strives to not only develop applications that meet the specifications, but also, meet the high expectations of his fellow developers. It was a privilege to work with Jason and watch him grow as a Developer."
-        },
-        {
-            "name": "Adrian Fraiha",
-            "reference": "Jason has the ability to take a project from inception to launch. I had the pleasure of working with Jason on a few projects and was impressed by his ability to understand clients' needs and execute in a detail-oriented fashion. Jason would be a great asset to any team."
-        },
-        {
-            "name": "Tony Effendi",
-            "reference": "Jason started at MediaRadar as a junior developer and he got promoted as a mid-level developer the following year. Jason and I had been in the same team for over two years. Jason was able to quickly get an understanding of the existing code base he was working on to make effective updates to it. Jason also had quick bug fix turn-around because of his very pragmatic approach to problems. It's been great having Jason in my team!"
-        }
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://linkedin.com/in/jasonbiegel"
+      },
+      {
+        "network": "GitHub",
+        "username": "njason",
+        "url": "https://github.com/njason"
+      }
     ]
+  },
+  "work": [
+    {
+      "company": "ISeeChange",
+      "position": "Senior Software Engineer",
+      "website": "https://www.iseechange.org",
+      "startDate": "2020-05-18",
+      "summary": "ISeeChange is a startup that empowers communities to document and understand their environment, weather, and climate in order to increase resilience.",
+      "highlights": [
+        "Maintain and develop features for the backend of our public facing apps",
+        "Design and build out customer features for clients and partners",
+        "Migrated server infrastructure to Kubernetes",
+        "Upgraded outdated NodeJS to latest LTS version and incorporated TypeScript",
+        "Capture sensor data from TheThingsNetwork and display it on dashboards"
+      ]
+    },
+    {
+      "company": "ShopRunner",
+      "position": "Software Engineer",
+      "website": "https://www.shoprunner.com",
+      "startDate": "2018-10-23",
+      "summary": "Backend/Devops focused developer for ShopRunner's e-commerce marketplace. I work on a small agile team which creates exciting and innovative products.",
+      "highlights": [
+        "Design and implemented ordering system",
+        "Converted legacy Node app to TypeScript",
+        "Added testing to backend Python system resulting in much faster bug fixes",
+        "Migrated high-traffic legacy Python emailing system to Kotlin",
+        "Dockerized and migrated core Spring, Inc. apps to ShopRunner's AWS account without production downtime",
+        "Handpicked from Spring, Inc. acquisition, primary on-call resource for all apps"
+      ]
+    },
+    {
+      "company": "Spring Inc.",
+      "position": "Software Engineer",
+      "website": "https://www.shopspring.com",
+      "startDate": "2016-10-26",
+      "endDate": "2018-10-23",
+      "summary": "Spring was an acquired e-commerce platform offering over 2,000 brands with millions of SKUs across several marketplaces. I worked on several backend teams and designed system architecture for various projects.",
+      "highlights": [
+        "Developed the caching system used for customer apps",
+        "Designed and implemented Spring's eBay catalog and ordering system on a small team of backend engineers within two months",
+        "Built and maintained custom solutions for integrating with international e-commerce marketplaces such as NetEase",
+        "Migrated backend functionality from Go to Python",
+        "Created service for pushing real-time inventory updates to distributed marketplaces",
+        "Enhanced and designed features for internal test infrastructure"
+      ]
+    },
+    {
+      "company": "Self-Employed",
+      "position": "Freelance Full-Stack Web Developer",
+      "startDate": "2014-09-01",
+      "endDate": "2016-10-01",
+      "summary": "I provided full stack web development for clients, including Wolf & Badger, Bomberg, and Combat2College.",
+      "highlights": [
+        "Developed features and fixed bugs on an e-commerce website for a clothing and boutique retailer based in the UK",
+        "Incorporated a product rating system into the Django Mezzanine admin webapp with ratings imported automatically from Feefo",
+        "Improved the return process by sending automated emails to vendors when their products are returned",
+        "Developed a CMS in Django Oscar to control content and products",
+        "Altered website presentation based on user's local time using Python geoip library",
+        "Achieved a two month turnaround for full website implementation using Git and Bitbucket for source control"
+      ]
+    },
+    {
+      "company": "MediaRadar, Inc.",
+      "position": "Application Developer",
+      "website": "http://mediaradar.com",
+      "startDate": "2013-01-02",
+      "endDate": "2015-01-02",
+      "summary": "I was part of a small team of developers working on customer facing web apps and services. I worked on a broad spectrum of projects from developing new features, to refactoring architecture, to creating large background tasks. Our stack was ASP.NET MVC 3 (Razor) with SQL Server and MongoDB. MediaRadar is data intensive, as a result I wrote an extensive amount of complex large-scale data processing code.",
+      "highlights": [
+        "Developed email templating functionality into an internal web app to send emails to new customers",
+        "Re-factored the homepage and a report feature on customer facing site which reduced load-time drastically",
+        "Developed a system for testing and sending customer email alerts",
+        "Worked on projects utilizing mongoDB to store alert email messages",
+        "Re-implemented front-end styling in LESS"
+      ]
+    },
+    {
+      "company": "Image Access Corp.",
+      "position": "Software Engineer",
+      "website": "http://www.imageaccesscorp.com",
+      "startDate": "2010-06-01",
+      "endDate": "2012-12-30",
+      "summary": "I developed and maintained workflow systems for enterprise businesses utilizing scanners digitizing paper documents. Wrote software using technologies such as .NET, web services, and ODBC to store digital documents.",
+      "highlights": [
+        "Developed and supported an invoice approval web application for a Fortune 500 company with 10K users",
+        "Wrote custom Kofax scanner application for stamping ID code on scanned documents for a large-scale operation",
+        "Supported 50+ customers remotely and on-site for testing, upgrades, and troubleshooting",
+        "Autonomously migrated millions of documents from EMC ApplicationXtender to IBM Content Manager"
+      ]
+    },
+    {
+      "company": "Abbott Point of Care",
+      "position": "Software Engineering Intern",
+      "website": "http://www.abbottpointofcare.com",
+      "startDate": "2010-01-05",
+      "endDate": "2010-05-05",
+      "summary": "Designed and developed a .NET application for medical devices with touch screen capabilities on a team of software engineers using WPF technologies.",
+      "highlights": [
+        "Created a Windows service for logging system events into a SQL Server database",
+        "Designed and developed an operations log for medical devices"
+      ]
+    },
+    {
+      "company": "Application Security, Inc.",
+      "position": "Software Engineering Intern",
+      "website": "http://www.appsecinc.com",
+      "startDate": "2008-01-05",
+      "endDate": "2008-12-20",
+      "summary": "Developed features and made bug fixes for .NET applications with 1000+ customers.",
+      "highlights": [
+        "Started, designed, and implemented an open source testing framework (RemoteInstall) for testing installers on virtual machines over a network",
+        "Worked on an open source project (dotNetInstaller), a setup bootstrapper used for installing and upgrading company products on customer machines"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "GitHub",
+      "position": "Maintainer",
+      "website": "https://github.com/shopspring/decimal",
+      "startDate": "2017-02-07",
+      "summary": "One of two maintainers for Go's most popular decimal library, shopspring/decimal",
+      "highlights": [
+        "Build out new features and bug fixes requested by the community",
+        "Review and deploy pull-requests from contributors"
+      ]
+    },
+    {
+      "organization": "Riverview Community Garden",
+      "position": "Board Member",
+      "website": "https://www.riverviewcommunitygarden.org",
+      "startDate": "2013-04-01",
+      "summary": "Grow crops for people in my community.",
+      "highlights": [
+        "Identify and remove pests and diseases in crops",
+        "Designed off-grid solar power electrical system",
+        "Setup small greenhouse for seed germination",
+        "Teach composting to people in the community"
+      ]
+    },
+    {
+      "organization": "Sustainable JC",
+      "position": "Member",
+      "website": "https://www.sustainablejc.org/",
+      "startDate": "2020-04-01",
+      "summary": "Sustainable JC looks to work with the Jersey City government to improve policy and infrastructure to combat the effects of climate change.",
+      "highlights": [
+        "Performed in fieldwork and analysis of tree mapping data",
+        "Leading heat mapping initiatives to understand the effects of the urban heat island effect"
+      ]
+    },
+    {
+      "organization": "Association for Vertical Farming",
+      "position": "Member",
+      "website": "https://vertical-farming.net",
+      "startDate": "2016-07-01",
+      "endDate": "2018-12-31",
+      "summary": "Developed a standardized grow recipe data format for controlled environment agriculture.",
+      "highlights": [
+        "Gave presentations on concepts for standardizing grow recipes",
+        "Work with an international team of stakeholders to gather requirements"
+      ]
+    },
+    {
+      "organization": "MakerBar",
+      "position": "Board Member",
+      "website": "http://makerbar.com",
+      "startDate": "2014-04-14",
+      "endDate": "2019-01-15",
+      "summary": "Held positions as president and treasurer of a non-profit makerspace in Hoboken, NJ. We had a wood shop, CNC router, 3D printer which I utilize for various projects.",
+      "highlights": [
+        "Taught several classes on the basics of front-end web development",
+        "Created a solar powered phone charger and installed it in my local community garden",
+        "Host and participate in meetups at the space"
+      ]
+    },
+    {
+      "organization": "Prime Skate Shop",
+      "position": "Web Developer",
+      "website": "http://www.primeskateshop.com",
+      "startDate": "2010-01-01",
+      "endDate": "2011-08-01",
+      "summary": "Developed a PHP based eCommerce website linked to a PayPal merchant account selling skateboarding products.",
+      "highlights": [
+        "Wrote scripts to automatically update inventory daily from distributor database",
+        "Linked company Blogspot RSS feed to automatically show new blogs on website front page"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Stevens Institute of Technology",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2006-08-01",
+      "endDate": "2010-05-20",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "New York Botanical Garden",
+      "area": "Horticulture",
+      "studyType": "Adult Education Certificate Program",
+      "startDate": "2018-07-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "University of New South Wales",
+      "area": "Australian Wildlife and Conservation",
+      "studyType": "Study Abroad",
+      "startDate": "2009-06-01",
+      "endDate": "2009-08-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Back-end",
+      "level": "Master",
+      "keywords": [
+        "Node",
+        "Go",
+        "Python",
+        "Kotlin",
+        ".NET",
+        "Postgres",
+        "Memcached"
+      ]
+    },
+    {
+      "name": "OS/Cloud Solutions",
+      "level": "Experienced",
+      "keywords": [
+        "Kubernetes",
+        "AWS",
+        "Docker",
+        "macOS",
+        "Linux",
+        "Windows"
+      ]
+    },
+    {
+      "name": "Front-end",
+      "level": "Experienced",
+      "keywords": [
+        "Bootstrap",
+        "Backbone",
+        "jQuery",
+        "HTML5",
+        "SASS"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Gardening",
+      "keywords": [
+        "Hydroponics",
+        "Vertical Gardening",
+        "Community Garden"
+      ]
+    },
+    {
+      "name": "Cars",
+      "keywords": [
+        "Bio-diesel"
+      ]
+    },
+    {
+      "name": "Pub Games",
+      "keywords": [
+        "Darts",
+        "Billiards"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Mike Levine",
+      "reference": "Jason brought skill and passion to the MediaRadar development team. When we first brought Jason on he was put in a role that provided support to our 20 person development team. Within the first few months he outgrew that role and became a go to for other developers on best practices and technical knowledge of some of the newer tools available. Jason strives to not only develop applications that meet the specifications, but also, meet the high expectations of his fellow developers. It was a privilege to work with Jason and watch him grow as a Developer."
+    },
+    {
+      "name": "Adrian Fraiha",
+      "reference": "Jason has the ability to take a project from inception to launch. I had the pleasure of working with Jason on a few projects and was impressed by his ability to understand clients' needs and execute in a detail-oriented fashion. Jason would be a great asset to any team."
+    },
+    {
+      "name": "Tony Effendi",
+      "reference": "Jason started at MediaRadar as a junior developer and he got promoted as a mid-level developer the following year. Jason and I had been in the same team for over two years. Jason was able to quickly get an understanding of the existing code base he was working on to make effective updates to it. Jason also had quick bug fix turn-around because of his very pragmatic approach to problems. It's been great having Jason in my team!"
+    }
+  ]
 }
