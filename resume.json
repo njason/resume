@@ -6,7 +6,7 @@
     "email": "me@jasonbiegel.com",
     "phone": "(201) 273-3173",
     "website": "http://jasonbiegel.com",
-    "summary": "I am a detail-oriented professional with a deep understanding of many technical subjects. I am an avid open-source developer. I love to be creative and inventive. I have over 10 years of experience in software engineering. I also have professional experience in farming and citizen science.",
+    "summary": "I am a detail-oriented professional with a deep understanding of many technical subjects. I am an avid open-source developer. I love to be creative and inventive. I have over 10 years of experience in software engineering.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -28,17 +28,31 @@
   },
   "work": [
     {
+      "company": "Image Access Corp",
+      "position": "Senior Software Engineer",
+      "website": "https://imageaccesscorp.com/",
+      "startDate": "2021-02-01",
+      "summary": "I provide software engineering and devops skill to build and maintain document management systems for customers.",
+      "highlights": [
+        "Create custom integrations for the in-house built software system, ImageTrust",
+		"Maintain and improve existing software solutions for customers",
+		"Lead team in building new customer facing website for company",
+        "Trained in Google Cloud Platform"
+      ]
+    },
+    {
       "company": "ISeeChange",
       "position": "Senior Software Engineer",
       "website": "https://www.iseechange.org",
       "startDate": "2020-05-18",
+	  "endDate": "2021-01-22"
       "summary": "ISeeChange is a startup that empowers communities to document and understand their environment, weather, and climate in order to increase resilience.",
       "highlights": [
-        "Maintain and develop features for the backend of our public facing apps",
-        "Design and build out customer features for clients and partners",
+        "Maintained and developed features for the backend of our public facing apps",
+        "Designed and built out customer features for clients and partners",
         "Migrated server infrastructure to Kubernetes",
         "Upgraded outdated NodeJS to latest LTS version and incorporated TypeScript",
-        "Capture sensor data from TheThingsNetwork and display it on dashboards"
+        "Captured sensor data from TheThingsNetwork to display on dashboards"
       ]
     },
     {
@@ -264,6 +278,7 @@
       "keywords": [
         "Kubernetes",
         "AWS",
+		"Google Cloud Platform",
         "Docker",
         "macOS",
         "Linux",
